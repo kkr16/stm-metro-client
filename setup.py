@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="stm-metro-client",
-    version="0.0.1",
+    version="0.0.4",
     author="Karim Roukoz",
     author_email="roukoz@gmail.com",
     description="A python client for Montreal's STM metro line status",
