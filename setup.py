@@ -13,7 +13,6 @@ setuptools.setup(
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
     keywords=['montreal', 'transit', 'metro', 'subway', 'quebec'],
-    install_requires=['xml, requests'],
     url="https://github.com/kkr16/stm-metro-client",
     packages=setuptools.find_packages(),
 )
