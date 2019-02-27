@@ -41,6 +41,7 @@ class StmMetroClient():
 
     @staticmethod
     def get_lines():
+        """Get list of lines and their numbers"""
         return LINE_COLOR
 
     @staticmethod
