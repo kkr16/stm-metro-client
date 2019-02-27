@@ -11,7 +11,6 @@ LINE_COLOR = {
     5: 'Blue'
 }
 
-
 class StmMetroClient():
     """Define Metro Client"""
     def __init__(self):
