@@ -55,4 +55,3 @@ class StmMetroClient():
     def get_line_color_by_number(line_number):
         """Get line color by number"""
         return LINE_COLOR[line_number]
-
