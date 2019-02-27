@@ -2,13 +2,13 @@
 
 from datetime import datetime
 
-from stm_metro_client import StmMetroClient
+from stm_metro_client import stm_metro_client
 
 
 def test():
     """Test function"""
     rcode = 0
-    stm_client = StmMetroClient()
+    stm_client = stm_metro_client.StmMetroClient()
     api_time_start = datetime.now()
     print(stm_client.get_state())
     api_time_end = datetime.now()
