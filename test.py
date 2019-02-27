@@ -1,5 +1,7 @@
 """Tests"""
 
+from datetime import datetime, timedelta
+
 from stm_metro_client import StmMetroClient
 
 
