@@ -1,7 +1,4 @@
 """Tests"""
-import sys
-from datetime import datetime, timedelta
-from os import remove
 
 from stm_metro_client import StmMetroClient
 
