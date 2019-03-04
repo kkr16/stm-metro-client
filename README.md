@@ -1,4 +1,5 @@
-# stm-metro-client
+# stm-metro-client [![Build Status](https://api.travis-ci.org/kkr16/stm-metro-client.svg?branch=master)](https://travis-ci.org/kkr16/stm-metro-client) [![PyPI version](https://badge.fury.io/py/stm-metro-client.svg)](https://badge.fury.io/py/stm-metro-client)
+
 
 A python client for the Montreal STM Metro line status.
 
