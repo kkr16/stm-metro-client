@@ -1,5 +1,5 @@
 """Tests"""
-
+import sys
 
 def test():
     """Test function"""
