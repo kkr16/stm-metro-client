@@ -5,7 +5,7 @@ def test():
     """Test function"""
     rcode = 0
 
-    quit(rcode)
+    sys.exit()
 
 
 test()
